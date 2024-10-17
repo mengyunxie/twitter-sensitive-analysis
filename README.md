@@ -1,5 +1,5 @@
 <h1>Tweet Sentiment Analysis</h1>
-(Simiao Wang, Nijia Wu, Mengyun Xie, Yaokun Ren)
+
 
 <b>Overview</b>
 
