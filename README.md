@@ -1,6 +1,4 @@
-<h1>Final Project - Tweet Sentiment Analysis</h1>
-
-<b>No. 4 / Friday Data Team</b>
+<h1>Tweet Sentiment Analysis</h1>
 (Simiao Wang, Nijia Wu, Mengyun Xie, Yaokun Ren)
 
 <b>Overview</b>
