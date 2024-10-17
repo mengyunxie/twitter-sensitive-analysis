@@ -61,22 +61,6 @@ df = pd.read_csv('Twitter_Data.csv')
 df.sample(5)
 ```
 
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-    
-    .dataframe thead th {
-        text-align: right;
-    }
-
-
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -140,20 +124,6 @@ def count_values_in_column(data,feature):
 count_values_in_column(df,"category")
 ```
 
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-    
-    .dataframe thead th {
-        text-align: right;
-    }
 
 <table border="1" class="dataframe">
   <thead>
